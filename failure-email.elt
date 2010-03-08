@@ -1,0 +1,11 @@
+Tough Luck! Your pick lost last week so you're out of the Football Survivor Pool.
+
+You picked the %(s pick), who lost to the %(s opponent) %(d oppo-score) - %(d score).
+
+You don't need to do anything else, you won't receive any more email from this pool, thanks for playing!
+
+Survived Week %(d week):
+%(s survivors)
+
+Out of the Pool after Week %(d week):
+%(s failures)

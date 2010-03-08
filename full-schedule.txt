@@ -1,0 +1,351 @@
+Week 1
+Day 	Matchup 	Time 	TV
+Thursday, Sept. 4 	Washington Redskins at New York Giants 	7 p.m. 	NBC
+Sunday, Sept. 7 	Cincinnati Bengals at Baltimore Ravens 	1 p.m. 	CBS
+Sunday, Sept. 7 	New York Jets at Miami Dolphins 	1 p.m. 	CBS
+Sunday, Sept. 7 	Kansas City Chiefs at New England Patriots 	1 p.m. 	CBS
+Sunday, Sept. 7 	Houston Texans at Pittsburgh Steelers 	1 p.m. 	CBS
+Sunday, Sept. 7 	Jacksonville Jaguars at Tennessee Titans 	1 p.m. 	CBS
+Sunday, Sept. 7 	Detroit Lions at Atlanta Falcons 	1 p.m. 	FOX
+Sunday, Sept. 7 	Seattle Seahawks at Buffalo Bills 	1 p.m. 	FOX
+Sunday, Sept. 7 	Tampa Bay Buccaneers at New Orleans Saints 	1 p.m. 	FOX
+Sunday, Sept. 7 	St. Louis Rams at Philadelphia Eagles 	1 p.m. 	FOX
+Sunday, Sept. 7 	Dallas Cowboys at Cleveland Browns 	4:15 p.m. 	FOX
+Sunday, Sept. 7 	Carolina Panthers at San Diego Chargers 	4:15 p.m. 	FOX
+Sunday, Sept. 7 	Arizona Cardinals at San Francisco 49ers 	4:15 p.m. 	FOX
+Sunday, Sept. 7 	Chicago Bears at Indianapolis Colts 	8:15 p.m. 	NBC
+Monday, Sept. 8 	Minnesota Vikings at Green Bay Packers 	7 p.m. 	ESPN
+Monday, Sept. 8 	Denver Broncos at Oakland Raiders 	10:15 p.m. 	ESPN
+
+
+
+Week 2
+Day 	Matchup 	Time 	TV
+Sunday, Sept. 14 	Tennessee Titans at Cincinnati Bengals 	1 p.m. 	CBS
+Sunday, Sept. 14 	Buffalo Bills at Jacksonville Jaguars 	1 p.m. 	CBS
+Sunday, Sept. 14 	Oakland Raiders at Kansas City Chiefs 	1 p.m. 	CBS
+Sunday, Sept. 14 	Indianapolis Colts at Minnesota Vikings 	1 p.m. 	CBS
+Sunday, Sept. 14 	Chicago Bears at Carolina Panthers 	1 p.m. 	FOX
+Sunday, Sept. 14 	Green Bay Packers at Detroit Lions 	1 p.m. 	FOX
+Sunday, Sept. 14 	New York Giants at St. Louis Rams 	1 p.m. 	FOX
+Sunday, Sept. 14 	New Orleans Saints at Washington Redskins 	1 p.m. 	FOX
+Sunday, Sept. 14 	Atlanta Falcons at Tampa Bay Buccaneers 	4:05 p.m. 	FOX
+Sunday, Sept. 14 	San Francisco 49ers at Seattle Seahawks 	4:05 p.m. 	FOX
+Sunday, Sept. 14 	New England Patriots at New York Jets 	4:15 p.m. 	CBS
+Sunday, Sept. 14 	San Diego Chargers at Denver Broncos 	4:15 p.m. 	CBS
+Sunday, Sept. 14 	Miami Dolphins at Arizona Cardinals 	4:15 p.m. 	CBS
+Sunday, Sept. 14 	Baltimore Ravens at Houston Texans 	4:15 p.m. 	CBS
+Sunday, Sept. 14 	Pittsburgh Steelers at Cleveland Browns 	8:15 p.m. 	NBC
+Monday, Sept. 15 	Philadelphia Eagles at Dallas Cowboys 	8:30 p.m. 	ESPN
+
+
+
+Week 3
+Day 	Matchup 	Time 	TV
+Sunday, Sept. 21 	Kansas City Chiefs at Atlanta Falcons 	1 p.m. 	CBS
+Sunday, Sept. 21 	Oakland Raiders at Buffalo Bills 	1 p.m. 	CBS
+Sunday, Sept. 21 	Cincinnati Bengals at New York Giants 	1 p.m. 	CBS
+Sunday, Sept. 21 	Miami Dolphins at New England Patriots 	1 p.m. 	CBS
+Sunday, Sept. 21 	Houston Texans at Tennessee Titans 	1 p.m. 	CBS
+Sunday, Sept. 21 	Tampa Bay Buccaneers at Chicago Bears 	1 p.m. 	FOX
+Sunday, Sept. 21 	Arizona Cardinals at Washington Redskins 	1 p.m. 	FOX
+Sunday, Sept. 21 	Carolina Panthers at Minnesota Vikings 	1 p.m. 	FOX
+Sunday, Sept. 21 	New Orleans Saints at Denver Broncos 	4:05 p.m. 	FOX
+Sunday, Sept. 21 	Detroit Lions at San Francisco 49ers 	4:05 p.m. 	FOX
+Sunday, Sept. 21 	St. Louis Rams at Seattle Seahawks 	4:05 p.m. 	FOX
+Sunday, Sept. 21 	Jacksonville Jaguars at Indianapolis Colts 	4:15 p.m. 	CBS
+Sunday, Sept. 21 	Pittsburgh Steelers at Philadelphia Eagles 	4:15 p.m. 	CBS
+Sunday, Sept. 21 	Cleveland Browns at Baltimore Ravens 	4:15 p.m. 	CBS
+Sunday, Sept. 21 	Dallas Cowboys at Green Bay Packers 	8:15 p.m. 	NBC
+Monday, Sept. 22 	New York Jets at San Diego Chargers 	8:30 p.m. 	ESPN
+
+
+
+Week 4
+Day 	Matchup 	Time 	TV
+Sunday, Sept. 28 	Cleveland Browns at Cincinnati Bengals 	1 p.m. 	CBS
+Sunday, Sept. 28 	Houston Texans at Jacksonville Jaguars 	1 p.m. 	CBS
+Sunday, Sept. 28 	Denver Broncos at Kansas City Chiefs 	1 p.m. 	CBS
+Sunday, Sept. 28 	Atlanta Falcons at Carolina Panthers 	1 p.m. 	FOX
+Sunday, Sept. 28 	Arizona Cardinals at New York Jets 	1 p.m. 	FOX
+Sunday, Sept. 28 	San Francisco 49ers at New Orleans Saints 	1 p.m. 	FOX
+Sunday, Sept. 28 	Green Bay Packers at Tampa Bay Buccaneers 	1 p.m. 	FOX
+Sunday, Sept. 28 	Minnesota Vikings at Tennessee Titans 	1 p.m. 	FOX
+Sunday, Sept. 28 	San Diego Chargers at Oakland Raiders 	4:05 p.m. 	CBS
+Sunday, Sept. 28 	Buffalo Bills at St. Louis Rams 	4:05 p.m. 	CBS
+Sunday, Sept. 28 	Washington Redskins at Dallas Cowboys 	4:15 p.m. 	FOX
+Sunday, Sept. 28 	Philadelphia Eagles at Chicago Bears 	8:15 p.m. 	NBC
+Monday, Sept. 29 	Baltimore Ravens at Pittsburgh Steelers 	8:30 p.m. 	ESPN
+Bye week: New York Giants, Detroit Lions, Miami Dolphins, Seattle Seahawks, New England Patriots, Indianapolis Colts
+
+
+
+Week 5
+Day 	Matchup 	Time 	TV
+Sunday, Oct. 5 	Buffalo Bills at Arizona Cardinals 	4:15 p.m. 	CBS
+Sunday, Oct. 5 	Tennessee Titans at Baltimore Ravens 	1 p.m. 	CBS
+Sunday, Oct. 5 	Kansas City Chiefs at Carolina Panthers 	1 p.m. 	CBS
+Sunday, Oct. 5 	Indianapolis Colts at Houston Texans 	1 p.m. 	CBS
+Sunday, Oct. 5 	San Diego Chargers at Miami Dolphins 	1 p.m. 	CBS
+Sunday, Oct. 5 	Chicago Bears at Detroit Lions 	1 p.m. 	FOX
+Sunday, Oct. 5 	Atlanta Falcons at Green Bay Packers 	1 p.m. 	FOX
+Sunday, Oct. 5 	Seattle Seahawks at New York Giants 	1 p.m. 	FOX
+Sunday, Oct. 5 	Washington Redskins at Philadelphia Eagles 	1 p.m. 	FOX
+Sunday, Oct. 5 	Tampa Bay Buccaneers at Denver Broncos 	4:05 p.m. 	FOX
+Sunday, Oct. 5 	Cincinnati Bengals at Dallas Cowboys 	4:15 p.m. 	CBS
+Sunday, Oct. 5 	New England Patriots at San Francisco 49ers 	4:15 p.m. 	CBS
+Sunday, Oct. 5 	Pittsburgh Steelers at Jacksonville Jaguars 	8:15 p.m. 	NBC
+Monday, Oct. 6 	Minnesota Vikings at New Orleans Saints 	8:30 p.m. 	ESPN
+Bye week: St. Louis Rams, New York Jets, Cleveland Browns, Oakland Raiders
+
+
+
+Week 6
+Day 	Matchup 	Time 	TV
+Sunday, Oct. 12 	Miami Dolphins at Houston Texans 	1 p.m. 	CBS
+Sunday, Oct. 12 	Baltimore Ravens at Indianapolis Colts 	1 p.m. 	CBS
+Sunday, Oct. 12 	Cincinnati Bengals at New York Jets 	1 p.m. 	CBS
+Sunday, Oct. 12 	Oakland Raiders at New Orleans Saints 	1 p.m. 	CBS
+Sunday, Oct. 12 	Chicago Bears at Atlanta Falcons 	1 p.m. 	FOX
+Sunday, Oct. 12 	Detroit Lions at Minnesota Vikings 	1 p.m. 	FOX
+Sunday, Oct. 12 	Carolina Panthers at Tampa Bay Buccaneers 	1 p.m. 	FOX
+Sunday, Oct. 12 	St. Louis Rams at Washington Redskins 	1 p.m. 	FOX
+Sunday, Oct. 12 	Jacksonville Jaguars at Denver Broncos 	4:05 p.m. 	CBS
+Sunday, Oct. 12 	Green Bay Packers at Seattle Seahawks 	4:15 p.m. 	FOX
+Sunday, Oct. 12 	Dallas Cowboys at Arizona Cardinals 	4:15 p.m. 	FOX
+Sunday, Oct. 12 	Philadelphia Eagles at San Francisco 49ers 	4:15 p.m. 	FOX
+Sunday, Oct. 12 	New England Patriots at San Diego Chargers 	8:15 p.m. 	NBC
+Monday, Oct. 13 	New York Giants at Cleveland Browns 	8:30 p.m. 	ESPN
+Bye week: Buffalo Bills, Pittsburgh Steelers, Tennessee Titans, Kansas City Chiefs
+
+
+
+Week 7
+Day 	Matchup 	Time 	TV
+Sunday, Oct. 19 	San Diego Chargers at Buffalo Bills 	1 p.m. 	CBS
+Sunday, Oct. 19 	Pittsburgh Steelers at Cincinnati Bengals 	1 p.m. 	CBS
+Sunday, Oct. 19 	Tennessee Titans at Kansas City Chiefs 	1 p.m. 	CBS
+Sunday, Oct. 19 	Baltimore Ravens at Miami Dolphins 	1 p.m. 	CBS
+Sunday, Oct. 19 	New Orleans Saints at Carolina Panthers 	1 p.m. 	FOX
+Sunday, Oct. 19 	Minnesota Vikings at Chicago Bears 	1 p.m. 	FOX
+Sunday, Oct. 19 	San Francisco 49ers at New York Giants 	1 p.m. 	FOX
+Sunday, Oct. 19 	Dallas Cowboys at St. Louis Rams 	1 p.m. 	FOX
+Sunday, Oct. 19 	Detroit Lions at Houston Texans 	4:05 p.m. 	FOX
+Sunday, Oct. 19 	Cleveland Browns at Washington Redskins 	4:15 p.m. 	CBS
+Sunday, Oct. 19 	Indianapolis Colts at Green Bay Packers 	4:15 p.m. 	CBS
+Sunday, Oct. 19 	New York Jets at Oakland Raiders 	4:15 p.m. 	CBS
+Sunday, Oct. 19 	Seattle Seahawks at Tampa Bay Buccaneers 	8:15 p.m. 	NBC
+Monday, Oct. 20 	Denver Broncos at New England Patriots 	8:30 p.m. 	ESPN
+Bye week: Philadelphia Eagles, Atlanta Falcons, Arizona Cardinals, Jacksonville Jaguars
+
+
+
+Week 8
+Day 	Matchup 	Time 	TV
+Sunday, Oct. 26 	San Diego Chargers at New Orleans Saints (London, England) 	1 p.m. 	CBS
+Sunday, Oct. 26 	Oakland Raiders at Baltimore Ravens 	1 p.m. 	CBS
+Sunday, Oct. 26 	Buffalo Bills at Miami Dolphins 	1 p.m. 	CBS
+Sunday, Oct. 26 	Kansas City Chiefs at New York Jets 	1 p.m. 	CBS
+Sunday, Oct. 26 	Arizona Cardinals at Carolina Panthers 	1 p.m. 	FOX
+Sunday, Oct. 26 	Tampa Bay Buccaneers at Dallas Cowboys 	1 p.m. 	FOX
+Sunday, Oct. 26 	Washington Redskins at Detroit Lions 	1 p.m. 	FOX
+Sunday, Oct. 26 	St. Louis Rams at New England Patriots 	1 p.m. 	FOX
+Sunday, Oct. 26 	Atlanta Falcons at Philadelphia Eagles 	1 p.m. 	FOX
+Sunday, Oct. 26 	Cleveland Browns at Jacksonville Jaguars 	4:05 p.m. 	CBS
+Sunday, Oct. 26 	New York Giants at Pittsburgh Steelers 	4:15 p.m. 	FOX
+Sunday, Oct. 26 	Seattle Seahawks at San Francisco 49ers 	4:15 p.m. 	FOX
+Monday, Oct. 27 	Indianapolis Colts at Tennessee Titans 	8:30 p.m. 	ESPN
+Bye week: Chicago Bears, Green Bay Packers, Minnesota Vikings, Cincinnati Bengals, Houston Texans, Denver Broncos
+
+
+
+Week 9
+Day 	Matchup 	Time 	TV
+Sunday, Nov. 2 	New York Jets at Buffalo Bills 	1 p.m. 	CBS
+Sunday, Nov. 2 	Jacksonville Jaguars at Cincinnati Bengals 	1 p.m. 	CBS
+Sunday, Nov. 2 	Baltimore Ravens at Cleveland Browns 	1 p.m. 	CBS
+Sunday, Nov. 2 	Houston Texans at Minnesota Vikings 	1 p.m. 	CBS
+Sunday, Nov. 2 	Detroit Lions at Chicago Bears 	1 p.m. 	FOX
+Sunday, Nov. 2 	Tampa Bay Buccaneers at Kansas City Chiefs 	1 p.m. 	FOX
+Sunday, Nov. 2 	Arizona Cardinals at St. Louis Rams 	1 p.m. 	FOX
+Sunday, Nov. 2 	Green Bay Packers at Tennessee Titans 	1 p.m. 	FOX
+Sunday, Nov. 2 	Miami Dolphins at Denver Broncos 	4:05 p.m. 	CBS
+Sunday, Nov. 2 	Dallas Cowboys at New York Giants 	4:15 p.m. 	FOX
+Sunday, Nov. 2 	Philadelphia Eagles at Seattle Seahawks 	4:15 p.m. 	FOX
+Sunday, Nov. 2 	Atlanta Falcons at Oakland Raiders 	4:15 p.m. 	FOX
+Sunday, Nov. 2 	New England Patriots at Indianapolis Colts 	8:15 p.m. 	NBC
+Monday, Nov. 3 	Pittsburgh Steelers at Washington Redskins 	8:30 p.m. 	ESPN
+Bye week: Carolina Panthers, New Orleans Saints, San Francisco 49ers, San Diego Chargers
+
+
+
+Week 10
+Day 	Matchup 	Time 	TV
+Thursday, Nov. 6 	Denver Broncos at Cleveland Browns 	8:15 p.m. 	NFLN
+Sunday, Nov. 9 	Tennessee Titans at Chicago Bears 	1 p.m. 	CBS
+Sunday, Nov. 9 	Jacksonville Jaguars at Detroit Lions 	1 p.m. 	CBS
+Sunday, Nov. 9 	Cincinnati Bengals at Houston Texans 	1 p.m. 	CBS
+Sunday, Nov. 9 	Buffalo Bills at New England Patriots 	1 p.m. 	CBS
+Sunday, Nov. 9 	New Orleans Saints at Atlanta Falcons 	1 p.m. 	FOX
+Sunday, Nov. 9 	Seattle Seahawks at Miami Dolphins 	1 p.m. 	FOX
+Sunday, Nov. 9 	Green Bay Packers at Minnesota Vikings 	1 p.m. 	FOX
+Sunday, Nov. 9 	St. Louis Rams at New York Jets 	1 p.m. 	FOX
+Sunday, Nov. 9 	Carolina Panthers at Oakland Raiders 	4:05 p.m. 	FOX
+Sunday, Nov. 9 	Indianapolis Colts at Pittsburgh Steelers 	4:15 p.m. 	CBS
+Sunday, Nov. 9 	Kansas City Chiefs at San Diego Chargers 	4:15 p.m. 	CBS
+Sunday, Nov. 9 	New York Giants at Philadelphia Eagles 	8:15 p.m. 	NBC
+Monday, Nov. 10 	San Francisco 49ers at Arizona Cardinals 	8:30 p.m. 	ESPN
+Bye week: Dallas Cowboys, Washington Redskins, Tampa Bay Buccaneers, Baltimore Ravens
+
+
+
+Week 11
+Day 	Matchup 	Time 	TV
+Thursday, Nov. 13 	New York Jets at New England Patriots 	8:15 p.m. 	NFLN
+Sunday, Nov. 16 	Denver Broncos at Atlanta Falcons 	1 p.m. 	CBS
+Sunday, Nov. 16 	Houston Texans at Indianapolis Colts 	1 p.m. 	CBS
+Sunday, Nov. 16 	Tennessee Titans at Jacksonville Jaguars 	1 p.m. 	CBS
+Sunday, Nov. 16 	Oakland Raiders at Miami Dolphins 	1 p.m. 	CBS
+Sunday, Nov. 16 	Baltimore Ravens at New York Giants 	1 p.m. 	CBS
+Sunday, Nov. 16 	Detroit Lions at Carolina Panthers 	1 p.m. 	FOX
+Sunday, Nov. 16 	Philadelphia Eagles at Cincinnati Bengals 	1 p.m. 	FOX
+Sunday, Nov. 16 	Chicago Bears at Green Bay Packers 	1 p.m. 	FOX
+Sunday, Nov. 16 	New Orleans Saints at Kansas City Chiefs 	1 p.m. 	FOX
+Sunday, Nov. 16 	Minnesota Vikings at Tampa Bay Buccaneers 	1 p.m. 	FOX
+Sunday, Nov. 16 	St. Louis Rams at San Francisco 49ers 	4:05 p.m. 	FOX
+Sunday, Nov. 16 	Arizona Cardinals at Seattle Seahawks 	4:05 p.m. 	FOX
+Sunday, Nov. 16 	San Diego Chargers at Pittsburgh Steelers 	4:15 p.m. 	CBS
+Sunday, Nov. 16 	Dallas Cowboys at Washington Redskins 	8:15 p.m. 	NBC
+Monday, Nov. 17 	Cleveland Browns at Buffalo Bills 	8:30 p.m. 	ESPN
+* Sunday night games in Weeks 11-16 subject to change
+
+
+
+Week 12
+Day 	Matchup 	Time 	TV
+Thursday, Nov. 20 	Cincinnati Bengals at Pittsburgh Steelers 	8:15 p.m. 	NFLN
+Sunday, Nov. 23 	Houston Texans at Cleveland Browns 	1 p.m. 	CBS
+Sunday, Nov. 23 	Buffalo Bills at Kansas City Chiefs 	1 p.m. 	CBS
+Sunday, Nov. 23 	New England Patriots at Miami Dolphins 	1 p.m. 	CBS
+Sunday, Nov. 23 	New York Jets at Tennessee Titans 	1 p.m. 	CBS
+Sunday, Nov. 23 	Carolina Panthers at Atlanta Falcons 	1 p.m. 	FOX
+Sunday, Nov. 23 	Philadelphia Eagles at Baltimore Ravens 	1 p.m. 	FOX
+Sunday, Nov. 23 	San Francisco 49ers at Dallas Cowboys 	1 p.m. 	FOX
+Sunday, Nov. 23 	Tampa Bay Buccaneers at Detroit Lions 	1 p.m. 	FOX
+Sunday, Nov. 23 	Minnesota Vikings at Jacksonville Jaguars 	1 p.m. 	FOX
+Sunday, Nov. 23 	Chicago Bears at St. Louis Rams 	1 p.m. 	FOX
+Sunday, Nov. 23 	Oakland Raiders at Denver Broncos 	4:05 p.m. 	CBS
+Sunday, Nov. 23 	New York Giants at Arizona Cardinals 	4:15 p.m. 	FOX
+Sunday, Nov. 23 	Washington Redskins at Seattle Seahawks 	4:15 p.m. 	FOX
+Sunday, Nov. 23 	Indianapolis Colts at San Diego Chargers 	8:15 p.m. 	NBC
+Monday, Nov. 24 	Green Bay Packers at New Orleans Saints 	8:30 p.m. 	ESPN
+* Sunday night games in Weeks 11-16 subject to change
+
+
+
+Week 13
+Day 	Matchup 	Time 	TV
+Thursday, Nov. 27 	Tennessee Titans at Detroit Lions 	12:30 p.m. 	CBS
+Thursday, Nov. 27 	Seattle Seahawks at Dallas Cowboys 	4:15 p.m. 	FOX
+Thursday, Nov. 27 	Arizona Cardinals at Philadelphia Eagles 	8:15 p.m. 	NFLN
+Sunday, Nov. 30 	Indianapolis Colts at Cleveland Browns 	1 p.m. 	CBS
+Sunday, Nov. 30 	Baltimore Ravens at Cincinnati Bengals 	1 p.m. 	CBS
+Sunday, Nov. 30 	Denver Broncos at New York Jets 	1 p.m. 	CBS
+Sunday, Nov. 30 	Miami Dolphins at St. Louis Rams 	1 p.m. 	CBS
+Sunday, Nov. 30 	San Francisco 49ers at Buffalo Bills 	1 p.m. 	FOX
+Sunday, Nov. 30 	Carolina Panthers at Green Bay Packers 	1 p.m. 	FOX
+Sunday, Nov. 30 	New Orleans Saints at Tampa Bay Buccaneers 	1 p.m. 	FOX
+Sunday, Nov. 30 	New York Giants at Washington Redskins 	1 p.m. 	FOX
+Sunday, Nov. 30 	Atlanta Falcons at San Diego Chargers 	4:05 p.m. 	FOX
+Sunday, Nov. 30 	Pittsburgh Steelers at New England Patriots 	4:15 p.m. 	CBS
+Sunday, Nov. 30 	Kansas City Chiefs at Oakland Raiders 	4:15 p.m. 	CBS
+Sunday, Nov. 30 	Chicago Bears at Minnesota Vikings 	8:15 p.m. 	NBC
+Monday, Dec. 1 	Jacksonville Jaguars at Houston Texans 	8:30 p.m. 	ESPN
+* Sunday night games in Weeks 11-16 subject to change
+
+
+
+Week 14
+Day 	Matchup 	Time 	TV
+Thursday, Dec. 4 	Oakland Raiders at San Diego Chargers 	8:15 p.m. 	NFLN
+Sunday, Dec. 7 	Jacksonville Jaguars at Chicago Bears 	1 p.m. 	CBS
+Sunday, Dec. 7 	Houston Texans at Green Bay Packers 	1 p.m. 	CBS
+Sunday, Dec. 7 	Cincinnati Bengals at Indianapolis Colts 	1 p.m. 	CBS
+Sunday, Dec. 7 	Cleveland Browns at Tennessee Titans 	1 p.m. 	CBS
+Sunday, Dec. 7 	Washington Redskins at Baltimore Ravens 	1 p.m. 	FOX
+Sunday, Dec. 7 	Minnesota Vikings at Detroit Lions 	1 p.m. 	FOX
+Sunday, Dec. 7 	Philadelphia Eagles at New York Giants 	1 p.m. 	FOX
+Sunday, Dec. 7 	Atlanta Falcons at New Orleans Saints 	1 p.m. 	FOX
+Sunday, Dec. 7 	Miami Dolphins at Buffalo Bills (Toronto) 	4:05 p.m. 	CBS
+Sunday, Dec. 7 	Kansas City Chiefs at Denver Broncos 	4:05 p.m. 	CBS
+Sunday, Dec. 7 	New York Jets at San Francisco 49ers 	4:05 p.m. 	CBS
+Sunday, Dec. 7 	Dallas Cowboys at Pittsburgh Steelers 	4:15 p.m. 	FOX
+Sunday, Dec. 7 	St. Louis Rams at Arizona Cardinals 	4:15 p.m. 	FOX
+Sunday, Dec. 7 	New England Patriots at Seattle Seahawks 	8:15 p.m. 	NBC
+Monday, Dec. 8 	Tampa Bay Buccaneers at Carolina Panthers 	8:30 p.m. 	ESPN
+* Sunday night games in Weeks 11-16 subject to change
+
+
+
+Week 15
+Day 	Matchup 	Time 	TV
+Thursday, Dec. 11 	New Orleans Saints at Chicago Bears 	8:15 p.m. 	NFLN
+Sunday, Dec. 14 	Pittsburgh Steelers at Baltimore Ravens 	1 p.m. 	CBS
+Sunday, Dec. 14 	Denver Broncos at Carolina Panthers 	1 p.m. 	CBS
+Sunday, Dec. 14 	Tennessee Titans at Houston Texans 	1 p.m. 	CBS
+Sunday, Dec. 14 	San Diego Chargers at Kansas City Chiefs 	1 p.m. 	CBS
+Sunday, Dec. 14 	Buffalo Bills at New York Jets 	1 p.m. 	CBS
+Sunday, Dec. 14 	Tampa Bay Buccaneers at Atlanta Falcons 	1 p.m. 	FOX
+Sunday, Dec. 14 	Washington Redskins at Cincinnati Bengals 	1 p.m. 	FOX
+Sunday, Dec. 14 	Detroit Lions at Indianapolis Colts 	1 p.m. 	FOX
+Sunday, Dec. 14 	Green Bay Packers at Jacksonville Jaguars 	1 p.m. 	FOX
+Sunday, Dec. 14 	San Francisco 49ers at Miami Dolphins 	1 p.m. 	FOX
+Sunday, Dec. 14 	Seattle Seahawks at St. Louis Rams 	1 p.m. 	FOX
+Sunday, Dec. 14 	Minnesota Vikings at Arizona Cardinals 	4:05 p.m. 	FOX
+Sunday, Dec. 14 	New England Patriots at Oakland Raiders 	4:15 p.m. 	CBS
+Sunday, Dec. 14 	New York Giants at Dallas Cowboys 	8:15 p.m. 	NBC
+Monday, Dec. 15 	Cleveland Browns at Philadelphia Eagles 	8:30 p.m. 	ESPN
+* Sunday night games in Weeks 11-16 subject to change
+
+
+
+Week 16
+Day 	Matchup 	Time 	TV
+Thursday, Dec. 18 	Indianapolis Colts at Jacksonville Jaguars 	8:15 p.m. 	NFLN
+Saturday, Dec. 20 	Baltimore Ravens at Dallas Cowboys 	8:15 p.m. 	NFLN
+Sunday, Dec. 21 	Cincinnati Bengals at Cleveland Browns 	1 p.m. 	CBS
+Sunday, Dec. 21 	Buffalo Bills at Denver Broncos 	1 p.m. 	CBS
+Sunday, Dec. 21 	Miami Dolphins at Kansas City Chiefs 	1 p.m. 	CBS
+Sunday, Dec. 21 	Pittsburgh Steelers at Tennessee Titans 	1 p.m. 	CBS
+Sunday, Dec. 21 	Philadelphia Eagles at Washington Redskins 	1 p.m. 	FOX
+Sunday, Dec. 21 	Arizona Cardinals at New England Patriots 	1 p.m. 	FOX
+Sunday, Dec. 21 	New Orleans Saints at Detroit Lions 	1 p.m. 	FOX
+Sunday, Dec. 21 	Atlanta Falcons at Minnesota Vikings 	1 p.m. 	FOX
+Sunday, Dec. 21 	Carolina Panthers at New York Giants 	1 p.m. 	FOX
+Sunday, Dec. 21 	San Francisco 49ers at St. Louis Rams 	1 p.m. 	FOX
+Sunday, Dec. 21 	New York Jets at Seattle Seahawks 	4:05 p.m. 	CBS
+Sunday, Dec. 21 	Houston Texans at Oakland Raiders 	4:05 p.m. 	CBS
+Sunday, Dec. 21 	San Diego Chargers at Tampa Bay Buccaneers 	8:15 p.m. 	NBC
+Monday, Dec. 22 	Green Bay Packers at Chicago Bears 	8:30 p.m. 	ESPN
+* Sunday night games in Weeks 11-16 subject to change
+
+
+
+Week 17
+Day 	Matchup 	Time 	TV
+Sunday, Dec. 28 	Cleveland Browns at Pittsburgh Steelers 	1 p.m. 	CBS
+Sunday, Dec. 28 	Tennessee Titans at Indianapolis Colts 	1 p.m. 	CBS
+Sunday, Dec. 28 	New England Patriots at Buffalo Bills 	1 p.m. 	CBS
+Sunday, Dec. 28 	Jacksonville Jaguars at Baltimore Ravens 	1 p.m. 	CBS
+Sunday, Dec. 28 	Kansas City Chiefs at Cincinnati Bengals 	1 p.m. 	CBS
+Sunday, Dec. 28 	Miami Dolphins at New York Jets 	1 p.m. 	CBS
+Sunday, Dec. 28 	Oakland Raiders at Tampa Bay Buccaneers 	1 p.m. 	CBS
+Sunday, Dec. 28 	Dallas Cowboys at Philadelphia Eagles 	1 p.m. 	FOX
+Sunday, Dec. 28 	New York Giants at Minnesota Vikings 	1 p.m. 	FOX
+Sunday, Dec. 28 	Chicago Bears at Houston Texans 	1 p.m. 	FOX
+Sunday, Dec. 28 	St. Louis Rams at Atlanta Falcons 	1 p.m. 	FOX
+Sunday, Dec. 28 	Detroit Lions at Green Bay Packers 	1 p.m. 	FOX
+Sunday, Dec. 28 	Carolina Panthers at New Orleans Saints 	1 p.m. 	FOX
+Sunday, Dec. 28 	Denver Broncos at San Diego Chargers 	4:15 p.m. 	CBS
+Sunday, Dec. 28 	Washington Redskins at San Francisco 49ers 	4:15 p.m. 	FOX
+Sunday, Dec. 28 	Seattle Seahawks at Arizona Cardinals 	4:15 p.m. 	FOX

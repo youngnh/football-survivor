@@ -1,0 +1,22 @@
+Congratulations! You've made it to the %(s (positional (1+ week))) round of the Asynchrony NFL Survivor Pool.
+
+You picked the %(s pick), who beat the %(s opponent) %(d score) - %(d oppo-score).
+
+To keep playing, just reply to this email with your pick for Week %(d (1+ week)) in the subject line or body.
+REMEMBER, THURSDAY games have started, so GET YOUR PICKS IN by THURSDAY!
+
+Week %(d (1+ week)) Matchups
+
+%(s matchups)
+
+Your Picks So Far:
+%(s all-picks)
+
+Survived Week %(d week):
+%(s survivors)
+
+Out of the Pool after Week %(d week):
+%(s failures)
+
+You must submit a pick before Kickoff, %(s deadline)
+If you're no longer interested, just delete this, and you won't receive any more emails.

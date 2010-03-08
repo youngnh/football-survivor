@@ -1,0 +1,16 @@
+Play in the Football Survivor Pool!
+
+The rules are simple, pick a single team each week and if they win or tie, you move on to the next round.
+You can't pick a team that you've picked in previous weeks, the last person in the pool gets bragging rights.
+That's it.
+The pool is played entirely through email.
+It won't flood your inbox, just one email a week until you win or lose and after that, nothing.
+
+Just send a reply to this email with your pick in the subject line or body and you're in!
+
+Week %(d week) Games
+
+%(s matchups)
+
+You must submit a pick before Kickoff, %(s deadline)
+If you're not interested, just delete this, and you won't receive any more emails.

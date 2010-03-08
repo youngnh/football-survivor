@@ -1,0 +1,32 @@
+(("AFC East" ("New York Jets"
+              "Miami Dolphins"
+              "New England Patriots"
+              "Buffalo Bills"))
+ ("AFC North" ("Pittsburgh Steelers"
+               "Baltimore Ravens"
+               "Cleveland Browns"
+               "Cincinnati Bengals"))
+ ("AFC South" ("Tennessee Titans"
+               "Indianapolis Colts"
+               "Houston Texans"
+               "Jacksonville Jaguars"))
+ ("AFC West" ("Denver Broncos"
+              "San Diego Chargers"
+              "Oakland Raiders"
+              "Kansas City Chiefs"))
+ ("NFC East" ("New York Giants"
+              "Dallas Cowboys"
+              "Philadelphia Eagles"
+              "Washington Redskins"))
+ ("NFC North" ("Minnesota Vikings"
+               "Chicago Bears"
+               "Green Bay Packers"
+               "Detroit Lions"))
+ ("NFC South" ("Carolina Panthers"
+               "Tampa Bay Buccaneers"
+               "Atlanta Falcons"
+               "New Orleans Saints"))
+ ("NFC West" ("Arizona Cardinals"
+              "San Francisco 49ers"
+              "Seattle Seahawks"
+              "St. Louis Rams")))
